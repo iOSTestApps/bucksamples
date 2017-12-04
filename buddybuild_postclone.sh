@@ -1,5 +1,7 @@
 #!/bin/bash
 
+set -e
+
 brew update
 brew tap caskroom/cask
 brew install java
