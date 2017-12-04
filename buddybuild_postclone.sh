@@ -1,6 +1,6 @@
 #!/bin/bash
 
-ibrew update
+brew update
 brew tap caskroom/cask
 brew install java
 brew install ant python git watchman
