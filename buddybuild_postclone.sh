@@ -12,3 +12,5 @@ brew install buck
 cd cross-platform-scale-2015-demo
 
 buck project --ide xcode demo_app_ios
+
+find . -name "*.xcscheme" -delete
